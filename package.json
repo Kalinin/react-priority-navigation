@@ -55,7 +55,7 @@
     "react-test-renderer": "16.8.4",
     "rollup": "1.7.0",
     "rollup-plugin-commonjs": "9.2.2",
-    "rollup-plugin-node-resolve": "4.0.1",
+    "rollup-plugin-node-resolve": "5.2.0",
     "rollup-plugin-postcss": "2.0.3",
     "semantic-release": "15.13.3",
     "styled-components": "4.2.0",
